@@ -2,7 +2,7 @@
 
 I don't enjoy seeing the comments on most websites.
 So I turned them off. You can too.
-Start by downloading [`nocomments.css`](https://raw.githubusercontent.com/richard92m/nocomments.css/master/nocomments.css).
+Start by downloading [`nocomments.css`](https://raw.githubusercontent.com/richard92m/nocomments.css/master/nocomments.css). Want a site added to the list? [Let me know](mailto:richard92m@me.com).
 
 ## Firefox
 1. Find your Firefox profile: in Firefox, choose **Help > Troubleshooting Information**
