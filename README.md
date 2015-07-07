@@ -1,0 +1,2 @@
+# nocomments.css
+Hide comments.
